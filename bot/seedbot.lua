@@ -221,20 +221,20 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {165727799,152644841,52038630},--Sudo users
+    sudo_users = {153696038,159887854,},--Sudo users
     disabled_channels = {},
-    realm = {76947589,44169040},--Realms Id
+    realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Shield bot 3.2
     
      Hello my Good friends 😀🖐🏻
      
-    ‼️ this bot is made by :@Gmorr
+    ‼️ this bot is made by :@alireza_PT
    〰〰〰〰〰〰〰〰
    🚩 Our admins are : 
-   🔰 @Dawsh_Sepehr
-   🔰 @mehrdadparsa_admin_devils
-   🔰 @RyanGmmor
+   🔰 @alireza_PT
+   🔰 @alireza_PT
+   🔰 @alireza_PT
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    
